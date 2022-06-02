@@ -1,4 +1,4 @@
-#Thu Jun 02 21:38:36 CST 2022
-base.0=D\:\\zss\\flutter_demo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Thu Jun 02 22:14:03 CST 2022
+base.0=D\:\\01dStudy\\flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
